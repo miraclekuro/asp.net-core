@@ -20,7 +20,7 @@ pipeline {
   				// }
 				stage('Build') {
     					steps {
-							bat 'dotnet build E:\Sample\Sample.csproj'
+							bat 'dotnet build E:\Sample\Sample.csproj --configuration Release'
     					    // bat "\"${tool 'MSBuild'}\" \\Sample.csproj /p:DeployOnBuild=true /p:DeployDefaultTarget=WebPublish /p:WebPublishMethod=FileSystem /p:SkipInvalidConfigurations=true /t:build /p:Configuration=Release /p:Platform=\"Any CPU\" /p:DeleteExistingFiles=True /p:publishUrl=c:\\inetpub\\wwwroot"
     					}
 				}
