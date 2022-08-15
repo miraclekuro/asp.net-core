@@ -1,0 +1,7 @@
+E:\Sample\bin\Debug\net6.0\publish\Sample.exe
+E:\Sample\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\Sample\bin\Debug\net6.0\publish\appsettings.json
+E:\Sample\bin\Debug\net6.0\publish\Sample.dll
+E:\Sample\bin\Debug\net6.0\publish\Sample.deps.json
+E:\Sample\bin\Debug\net6.0\publish\Sample.runtimeconfig.json
+E:\Sample\bin\Debug\net6.0\publish\Sample.pdb
